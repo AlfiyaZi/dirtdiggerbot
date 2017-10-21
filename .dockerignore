@@ -1,6 +1,7 @@
 # These files have no use in the container
 config.default
 .gitignore
+.github
 
 # Editors
 .idea
