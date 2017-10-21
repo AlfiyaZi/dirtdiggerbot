@@ -22,4 +22,4 @@ You need to have Docker installed and you need a reddit account with dev access.
 People don't like dirt being found out about them. I'm pretty sure my bot has been shadowbanned from a sub already... so that is something to look out for.
 
 ## Contributions
-Check out [here](https://github.com/decentbison/dirtdiggerbot/blob/master/.github/CONTRIBUTING.md) for more info.
+Glad to have anyone contribute to this project. Check out [here](https://github.com/decentbison/dirtdiggerbot/blob/master/.github/CONTRIBUTING.md) for more info.
